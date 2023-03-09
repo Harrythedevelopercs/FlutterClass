@@ -108,8 +108,8 @@ questionFour(){
   print("");
   for (dynamic i = 0; i <= 5; i++) {
       for (int j = 1; j <= i; j++) {
-        num printingnumber = i;
-        stdout.write(printingnumber);
+          num printingnumber = i;
+          stdout.write(printingnumber);
       }
       print('');
   }
