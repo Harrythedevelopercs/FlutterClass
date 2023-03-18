@@ -22,7 +22,6 @@ void main (){
   print("");
   print("QUESTION 6");
   print("");
-
   questionSix();
 }
 
@@ -33,9 +32,9 @@ questionOne(){
   }
 
 
-  print(isPalindrome('racecar')); // true
-  print(isPalindrome('hello')); // false
-  print(isPalindrome('level')); // true
+  print(isPalindrome('racecar'));
+  print(isPalindrome('hello'));
+  print(isPalindrome('level'));
 }
 
 
